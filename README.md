@@ -1,10 +1,4 @@
-# OneConfigExampleMod
-Example mod implementing OneConfig.
+# PolyModelFix
 
-## How to use
+A direct port of [Item-Model-Fix](https://github.com/PepperCode1/Item-Model-Fix) for 1.8.9 and 1.12.2.
 
-- Copy the template either by using GitHub's "Use this template" feature or downloading the repo manually.
-- **Remove the license named "LICENSE-TEMPLATE" and choose a new one.**
-- Refactor the template (specifically, the modid, version and name in the gradle.properties and most of the class names)
-  to a different name.
-- Have fun modding! :D
